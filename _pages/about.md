@@ -7,9 +7,10 @@ subtitle: This is a nice little page about me
 profile:
   align: right
   image: train.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
-    <p>Pleace don't visit me</p>
+    <p>ExampleLaan 52</p>
+    <p>Eindhoven</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
