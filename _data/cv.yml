@@ -37,6 +37,10 @@
       description: Some random projects. Don't look at the code or you'll burn your eyes...
 
 - title: Other Interests
-  type: list
+  type: nested_list
   contents:
-    - <u>Hobbies:</u> Programming. Video Games
+    - title: Hobbies
+      items: 
+        - Programming
+        - Video Games
+        - Hanging out
