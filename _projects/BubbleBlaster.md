@@ -11,7 +11,7 @@ This is a project I made with a friend for our PWS.
 We made a simple little game where two players try to get as much bubbles as possible.
 The red submarine is a real player and the yellow submarine is an AI.
 To make the game more interresting we added a nuclear bubble that gives a speedboost.
-The AI is trained with the NEAT python library.
+The AI is trained with the [NEAT](https://neat-python.readthedocs.io/en/latest/) python library.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
