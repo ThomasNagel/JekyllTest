@@ -7,7 +7,7 @@ subtitle: This is a nice little page about me
 profile:
   align: right
   image: train.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>Eindhoven</p>
 
