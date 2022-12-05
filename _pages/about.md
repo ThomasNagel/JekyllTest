@@ -9,7 +9,6 @@ profile:
   image: train.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>ExampleLaan 52</p>
     <p>Eindhoven</p>
 
 news: true  # includes a list of news items
